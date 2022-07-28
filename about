@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title> Prasanth's website </title>
+  </head>
+  <body>
+    <table cellspacing="25">
+      <tr>
+        <td>
+        <img src = "https://media.istockphoto.com/photos/horror-man-in-hoodie-showing-silence-hand-sign-in-dark-picture-id1298167375?b=1&k=20&m=1298167375&s=170667a&w=0&h=DX8lwu9-asNLinL-Rnexu9Wy7ARdeAqQXyXjaKfO0bc=" />
+        </td>
+      <td>
+        <h1> PRASANTH </h1>
+        <p>
+        <em><a href="https://instagram.com/__prasanth_nj__?igshid=YmMyMTA2M2Y=">A Student </a> </em>
+        </p>
+        <p>
+          The student who is interested to always learn <strong> something new </strong>... and practically workout on it.
+        </p>
+      </td>
+    </tr>
+    </table>
+    <hr size = "4" color = black />
+    <h3> LEARNINGS </h3>
+    <ul type = square>
+      <li>
+        Python
+      </li>
+      <li>
+        Web development
+      </li>
+    </ul>
+    <hr size = "4" color = black />
+    <h3> HOBBIES </h3>
+    <ol type = 1 >
+      <li>
+        Learning
+      </li>
+      <li>
+        Watching Webseries
+      </li>
+    </ol>
+    <hr size = "4" color = black />
+    <h3>STUDIES</h3>
+    <table cellspacing="10">
+      <thead>
+        <th>
+          YEAR
+        </th>
+        <th>
+          ACADEMY
+        </th>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            2019-2022
+          </td>
+          <td>
+            Studied at SAMHSS
+          </td>
+        </tr>
+        <tr>
+          <td>
+            2022
+          </td>
+          <td>
+            Studying in UDEMY
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <hr size="4" color=black />
+    <h3>SKILLS</h3>
+    <table cellspacing="10">
+      <tr>
+        <td>
+          <table>
+          <tr>
+            <td>
+              EDITING
+            </td>
+            <td>
+               &#11088; &#11088; &#11088;
+            </td>
+          </tr>
+          <tr>
+            <td>
+              PHOTOGRAPHY
+            </td>
+            <td>
+                 &#11088; &#11088; &#11088;
+            </td>
+          </tr>
+        </table>
+    <h4><a href="contact.html">CONTACT ME</a></h4>
+  </body>
+</html>
